@@ -60,10 +60,19 @@
 
 ## Coding Profiles  
 <div align="center">
-<a href="https://www.leetcode.com/https://leetcode.com/krishmutha13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/krishmutha13/" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Krishmutha13/" target="blank">
+    <img src="https://github.com/Krish-Mutha/Krish-Mutha/blob/main/leetcode.svg" alt="https://leetcode.com/krishmutha13/" height="30" width="40" />
+  </a>
+
+  <a href="https://www.naukri.com/code360/profile/Krishmutha13" target="blank">
+    <img src="https://github.com/Krish-Mutha/Krish-Mutha/blob/main/codingninjas-svgrepo-com.svg" alt="https://www.naukri.com/code360/profile/Krishmutha13" height="30" width="40" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/krishjain13/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank">
+    <img src="https://github.com/Krish-Mutha/Krish-Mutha/blob/main/geeksforgeeks.svg" alt="https://www.geeksforgeeks.org/user/krishjain13/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" />
+  </a>
 </div>
 
-<br/>  
 
 ## Connect with me  
 <div align="center">
