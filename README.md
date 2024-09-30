@@ -6,8 +6,6 @@
 ### **<div align="center">I'm Krish, Android Developer 👨‍💻🚀</div>**  
   
 
-- 🔭 I’m currently working on [Artificial Intelligence for Legal Assistance](https://github.com/Krish-Mutha/Artificial-Intelligence-for-Legal-Assistance)
-
 -  📫 How to reach me **krish.1si21cs055@gmail.com**
   
 
