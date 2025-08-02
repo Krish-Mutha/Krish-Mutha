@@ -3,13 +3,13 @@
 </div>  
   
 
-### **<div align="center">I'm Krish, Android Developer 👨‍💻🚀</div>**  
+### **<div align="center">I'm Krish, iOS Developer 👨‍💻🚀</div>**  
   
 
 -  📫 How to reach me **krish.1si21cs055@gmail.com**
   
 
-- ❓ Ask me about anything related to Android Development in Kotlin  
+- ❓ Ask me about anything related to iOS dev in Swift & SwiftUI 
   
 
 - ⚡ Fun fact: I use tabs over spaces😅  
